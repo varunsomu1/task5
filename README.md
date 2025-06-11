@@ -9,6 +9,7 @@ Here are the outputs of the required queries:
 6. Prediction
 
 Dataset details:
+
 ![1000191382](https://github.com/user-attachments/assets/ed5923ad-7564-4d2d-a77e-e92e6c14b434)
 Classification Report:
 ![1000191384](https://github.com/user-attachments/assets/c8b53015-61b5-411d-9d27-2386312e4d62)
